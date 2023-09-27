@@ -6,7 +6,7 @@
 ## Experience
 - *Le Wagon* Web Developer Part Time Bootcamp ✔️
 - *Codecademy* (HTML, CSS, Ruby on Rails - 100 %) ✔️
-- *Freenet* Internship Team Retail Core 25.09.2023 - 19.07.2024 
+- *Freenet* Internship Team Retail Core 25.09.2023 - 19.07.2024
 
 ## Technologies
 
