@@ -14,4 +14,3 @@
 ## Get in touch
 - martin.krause@mailfence.com
 - www.linkedin.com/in/martin-krause-981b7a15b
-- ...
