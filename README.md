@@ -1,22 +1,27 @@
-# Martin Krause-@Lorengau
+<h1 align="center">Martin Krause · @Lorengau</h1>
+<p align="center">Quality Assurance (DevOps) @ freenet · TypeScript · Serverless · AWS</p>
 
-:man_technologist: Hi, I am Martin - an aspiring software developer.
+## Kurzprofil
+Ich baue, teste und betreibe serverless Backends auf AWS (Lambdas, DynamoDB, SQS/SNS, EventBridge) und sorge dafür, dass Workflows stabil, nachvollziehbar und kosteneffizient laufen.
 
-## Experience
-- *Le Wagon* Web Developer Part Time Bootcamp ✔️
-- *Codecademy* (HTML, CSS, Ruby on Rails - 100 %) ✔️
-- *Freenet* Internship Team Retail Core 25.09.2023 - 19.07.2024
+- Aktuell: Quality Assurance Operator (DevOps) @ freenet (seit 07/2024)
+- Vorher: Internship Team Retail Core @ freenet (09/2023–06/2024)
+- Bootcamps/Kurse: Le Wagon (Web Dev), Codecademy (HTML/CSS/Rails)
+
+## Tech-Stack
+**Sprachen & Frameworks:** TypeScript · Node.js · GraphQL  
+**AWS/Infra:** Lambda · DynamoDB · SQS/SNS · EventBridge · API Gateway · SST/Serverless  
+**Ops/QA:** CloudWatch · Tracing/Monitoring · CI/CD · Testing
+
+## Highlights
+- Serverless-Workflows für app-basierte Produkte (Stabilität, Monitoring, Kostenfokus)
+- Daten- & Prozessqualität im Betrieb (DLQs analysieren, Jobs/Events nachvollziehbar machen)
 
 ## Stats
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Lorengau)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorengau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lorengau&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorengau)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lorengau&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Lorengau)  
-
-## Get in touch
-- martin.krause@mailfence.com
-- www.linkedin.com/in/martin-krause-981b7a15b
+## Kontakt
+- ✉️ [martin.krause@mailfence.com](mailto:martin.krause@mailfence.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/martin-krause-981b7a15b)
 
