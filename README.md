@@ -17,10 +17,6 @@ Ich baue, teste und betreibe serverless Backends auf AWS (Lambdas, DynamoDB, SQS
 - Serverless-Workflows für app-basierte Produkte (Stabilität, Monitoring, Kostenfokus)
 - Daten- & Prozessqualität im Betrieb (DLQs analysieren, Jobs/Events nachvollziehbar machen)
 
-## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorengau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lorengau&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Kontakt
 - ✉️ [martin.krause@mailfence.com](mailto:martin.krause@mailfence.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/martin-krause-981b7a15b)
